@@ -1,0 +1,68 @@
+[
+    {
+        "nodeName": "500",
+        "nodeLeft": {
+            "label": "Auto Media Changing Station",
+            "path": "",
+            "send_up": "",
+            "send_down": ""
+        },
+        "nodeRight": {
+            "label": "Automatic Incubation Station",
+            "path": "",
+            "send_up": "",
+            "send_down": ""
+        }
+    },
+    {
+        "nodeName": "200"
+    },
+    {
+        "nodeName": "300",
+        "nodeLeft": {
+            "label": "Auto-Dispensing & Passaging Station",
+            "path": "",
+            "send_up": "",
+            "send_down": ""
+        }
+    },
+    {
+        "nodeName": "400",
+        "nodeRight": {
+            "label": "Auto Optical Inspection Station",
+            "path": "",
+            "send_up": "",
+            "send_down": ""
+        }
+    },
+    {
+        "nodeName": "200"
+    },
+    {
+        "nodeName": "300",
+        "nodeLeft": {
+            "label": "Auto Shaker Incubator & Dumping Box Station",
+            "path": "",
+            "send_up": "",
+            "send_down": ""
+        }
+    },
+	{
+        "nodeName": "200"
+    },
+    {
+        "nodeName": "500",
+        "nodeLeft": {
+            "label": "Auto-Cryo Banking & Thaw Station",
+            "path": "",
+            "send_up": "",
+            "send_down": ""
+        },
+        "nodeRight": {
+            "label": "Auto Storage & LD/UID Station",
+            "path": "",
+            "send_up": "",
+            "send_down": ""
+        }
+    }
+]
